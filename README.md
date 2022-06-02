@@ -10,4 +10,4 @@ Trivy Kubernetes Library.
 Supports trivy <-> kubernetes communication for resources scanning.
 
 # Documentation
-Please check `trivy` documentation, which provides detailed installation, configuration, and quick start guides, available at [Trivy Kubernetes](https://aquasecurity.github.io/trivy/latest/docs/kubernetes/cli/scanning/)
+Please check `trivy` documentation, which provides detailed installation, configuration, and quick start guides, available at [Trivy Kubernetes](https://aquasecurity.github.io/trivy/latest/docs/kubernetes/cli/scanning/). For continuously scans on your kubernetes cluster, please check [Trivy Operator](https://aquasecurity.github.io/trivy/latest/docs/kubernetes/operator/)
